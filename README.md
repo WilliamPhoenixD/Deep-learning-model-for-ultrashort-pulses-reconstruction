@@ -75,7 +75,7 @@ The aim of this project is to use **deep neural networks** to solve the phase-re
 
 This code was developed by **Xiangfeng(William) Deng** as part of a summer research program at the **Rice University**.
 
-For questions or comments, contact: phoenix.william.d@gmail.com
+For questions or comments, please contact: phoenix.william.d@gmail.com
 
 ---
 

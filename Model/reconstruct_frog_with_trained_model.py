@@ -87,7 +87,7 @@ def read_frog_txt(filepath):
 
 
 
-# 2 Interpolation 400×400 → 64×64
+# 2 Interpolation 400×400 to 64×64
 
 
 def gaussian_filter_delay_axis(arr, sigma):

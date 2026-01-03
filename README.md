@@ -14,14 +14,14 @@ We use the Frequency Resolved Optical Gating system to characterize ultrashort p
 The pulse is autocorrelated with a delayed copy of itself and passed through a second-harmonic generation crystal, which produces a signal proportional to the product of the two incident pulses. Variants of this setup exist, but the objective is always to send the crystal’s signal through a spectrometer and obtain the **SHG-FROG trace** of the incident pulse, which is
 
 $$
-\tilde{T}(\omega,\tau)
-= \left| \int_{-\infty}^{\infty} E(t)\,E(t-\tau)\,e^{i\omega t}\,dt \right|^{2}.
+I_{\text{ SHG FROG}}(\omega,\tau)
+= \left| \int_{-\infty}^{\infty} E(t)E(t-\tau)e^{-i\omega t}dt \right|^{2}
 $$
 
 Note that if a temporal translation of the pulse is performed, it is conjugated or a phase shift is performed, the same SHG-FROG trace will be obtained.A mathematical manipulation can be performed on the above expression to transform it into a two-dimensional Fourier transform:
 
 $$
-\tilde{T}(\omega,\tau)
+\bar{I}_(\omega,\tau)
 = \left| \iint_{-\infty}^{\infty}
 \bar{E}_{\text{sig}}(t,\Omega)\,e^{-i\omega t - i\Omega \tau}\,dt\,d\Omega \right|^{2},
 $$

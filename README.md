@@ -37,9 +37,7 @@ $$
 E(t) = \sqrt{I(t)}*e^{i\phi(t)}.
 $$
 
-This electric field is passed through the experimental setup so that the SHG-FROG trace is obtained.
-
-Here, what will be obtained from the Frequency-resolved Optical Gating (FROG) system is the SHG-FROG trace(raw experimental data), a two-dimensional array of $N  *  N$ elements, $I_{mn}$ where $m,n = 0, \ldots, N-1$; and our goal is to retrieve the 1D array of length 2N that represents the complex electric field of ultrashort pulse, with first N elements corresponding to the real part and the remaining N elements to the imaginary part. 
+Here, what will be obtained directly from the Frequency-resolved Optical Gating (FROG) system is the SHG-FROG trace(raw experimental data), a two-dimensional array of $N  *  N$ elements, $I_{mn}$ where $m,n = 0, \ldots, N-1$; and our goal is to retrieve the 1D array of length 2N that represents the complex electric field of ultrashort pulse, with first N elements corresponding to the real part and the remaining N elements to the imaginary part. 
 
 
 ![Summary figures](Figure2.png)

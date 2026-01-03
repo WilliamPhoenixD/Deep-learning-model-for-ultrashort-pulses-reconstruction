@@ -50,7 +50,7 @@ This problem can be addressed using dedicated phase-retrieval algorithms such as
 
 ## Problem from Deep Learning perspective
 
-The aim of this project is to use **deep neural networks** to solve the phase-retrieval problem. The network’s task is to **invert** the mapping from the \(N x N\) SHG-FROG trace (real numbers) to the \(2N\) real numbers representing the electric field’s real and imaginary parts.
+The aim of this project is to use **deep neural networks** to solve the phase-retrieval problem. The network’s task is to **invert** the mapping from the \(N x N\) SHG-FROG trace to the \(2N\) real numbers representing the electric field’s real and imaginary parts.
 
 ![NN perspective](Figure3.png)
 

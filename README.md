@@ -9,7 +9,7 @@ We use the Frequency Resolved Optical Gating system to characterize ultrashort p
 ![Experimental setup](Figure1(a).png)
 ![Second Harmonic Generation in lab](Figure1(b).png)
 
-*Figure 1: (a)Experimental setup for measuring SHG-FROG traces.  (b)Second Harmonic Generation in lab.
+*Figure 1: (a) Experimental setup for measuring SHG-FROG traces.  (b) Second Harmonic Generation in lab.
 
 The pulse is autocorrelated with a delayed copy of itself and passed through a second-harmonic generation crystal, which produces a signal proportional to the product of the two incident pulses. Variants of this setup exist, but the objective is always to send the crystal’s signal through a spectrometer and obtain the **SHG-FROG trace** of the incident pulse, which is
 
